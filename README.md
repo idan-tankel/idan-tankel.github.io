@@ -1,5 +1,16 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Idan Tankel - Academic Portfolio
+
+This is the personal academic portfolio website for Idan Tankel, a researcher and data scientist. The site is built using the Academic Pages template and hosted on GitHub Pages.
+
+## About
+
+Idan Tankel is a researcher and data scientist with expertise in machine learning, data analysis, and computational methods. His work focuses on applying advanced analytical techniques to solve complex problems across various domains.
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/tankwell/)
+- [ResearchGate](https://www.researchgate.net/profile/Idan-Tankel)
+- [GitHub](https://github.com/idan-tankel)
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
