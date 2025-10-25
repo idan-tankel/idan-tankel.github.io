@@ -1,10 +1,10 @@
 # Idan Tankel - Academic Portfolio
 
-This is the personal academic portfolio website for Idan Tankel, a researcher and data scientist. The site is built using the Academic Pages template and hosted on GitHub Pages.
+This is my personal academic portfolio website. The site is built using the Academic Pages template and hosted on GitHub Pages.
 
 ## About
 
-Idan Tankel is a researcher and data scientist with expertise in machine learning, data analysis, and computational methods. His work focuses on applying advanced analytical techniques to solve complex problems across various domains.
+I am a researcher and data scientist with expertise in machine learning, data analysis, and computational methods. My work focuses on applying advanced analytical techniques to solve complex problems across various domains.
 
 ## Links
 
