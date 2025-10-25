@@ -34,8 +34,8 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Tankel,+I"
+  googlescholar    : "https://scholar.google.com/citations?user=kH2mcKEAAAAJ&hl=iw&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
