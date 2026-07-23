@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Idan Tankel"
 title_separator          : "-"
 name                     : &name "Idan Tankel"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Idan Tankel"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher and Data Scientist"
-  location         : # Location
-  employer         : # Employer
+  bio              : "AI Researcher | Computer Vision | Trail Runner"
+  location         : "Tel Aviv"# Location
+  employer         : "GE Research"# Employer
   uri              : # URL
-  email            : # Email 
+  email            : "itankel@outlook.com" # Email 
 
   # Academic websites
   academia         : # URL
@@ -39,7 +39,7 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/Idan-Tankel/2335868209" # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Idan-Tankel"
   scopus           : # URL
