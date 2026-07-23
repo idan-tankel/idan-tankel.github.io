@@ -18,11 +18,11 @@ This website showcases my academic work, including publications, research projec
 About You
 =====
 
-- 💻 AI Research enfusiast
-- 🎹 Piano player
-- 🎓 Math Lover
-- 🏃 Trail runner
-- 🌻 Or maybe other things
+💻 AI Research enfusiast
+🎹 Piano player
+🎓 Math Lover
+🏃 Trail runner
+🌻 Or maybe other things
 
 
 
