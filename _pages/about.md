@@ -19,9 +19,13 @@ About You
 =====
 
 💻 AI Research enfusiast
+
 🎹 Piano player
+
 🎓 Math Lover
+
 🏃 Trail runner
+
 🌻 Or maybe other things
 
 
