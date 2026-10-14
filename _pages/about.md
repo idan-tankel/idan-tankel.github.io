@@ -9,9 +9,9 @@ redirect_from:
 
 About Me
 ======
-I am a researcher and data scientist with expertise in machine learning, data analysis, and computational methods. My work focuses on applying advanced analytical techniques to solve complex problems across various domains.
+I am an AI researcher at GE Research, based in Tel Aviv, working on computer vision and machine learning. My research interests include vision-language models, explainable object and action classification, and part-attribute recognition, as well as applications of LLMs and VLMs to medical imaging.
 
-This website showcases my academic work, including publications, research projects, and professional contributions. You can find my complete publication list, research talks, and teaching materials throughout this site.
+You can find my papers under [Publications](/publications/), and my profiles on [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Tankel,+I), [Google Scholar](https://scholar.google.com/citations?user=kH2mcKEAAAAJ&hl=iw&oi=ao), [Semantic Scholar](https://www.semanticscholar.org/author/Idan-Tankel/2335868209), [ResearchGate](https://www.researchgate.net/profile/Idan-Tankel), [LinkedIn](https://www.linkedin.com/in/tankwell), [GitHub](https://github.com/idan-tankel) and [Hugging Face](https://huggingface.co/tankwell).
 
 
 
