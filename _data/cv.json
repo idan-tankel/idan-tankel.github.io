@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "I",
     "email": "none@example.org",
     "phone": "",
     "website": "https://academicpages.github.io",
@@ -42,21 +42,21 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Weizmann institute Of Science",
+      "area": "M.S. in Computer Science & Applied Math",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "The Open University Of Israel",
+      "area": "B.S. in Mathematics",
+      "studyType": "`Academic In High School` program",
+      "startDate": "2015",
+      "endDate": "2018",
+      "gpa": 88,
       "courses": []
     }
   ],
