@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'An agentic AI approach to managing incidental findings in abdominal CT.'
-date: 2024-02-17
+date: 2025-12-01
 venue: 'MIDL 2026 spotlight'
 paperurl: 'https://arxiv.org/abs/2512.14732'
 citation: ''

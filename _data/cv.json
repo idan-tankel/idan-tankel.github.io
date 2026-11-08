@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "I",
+    "name": "Idan Tankel",
     "email": "none@example.org",
     "phone": "",
     "website": "https://academicpages.github.io",
@@ -59,14 +59,14 @@
     {
       "name": "INFORM-CT: INtegrating LLMs and VLMs FOR Incidental Findings Management in Abdominal CT",
       "publisher": "MIDL 2026 spotlight",
-      "releaseDate": "2024-02-17",
+      "releaseDate": "2025-12-01",
       "website": "https://arxiv.org/abs/2512.14732",
       "summary": "An agentic AI approach to managing incidental findings in abdominal CT."
     },
     {
       "name": "A Conceptual Approach to Explainable Object and Action Classification",
       "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
+      "releaseDate": "2024-12-01",
       "website": "https://ieeexplore.ieee.org/abstract/document/11149727",
       "summary": ""
     },

@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
-date: 2024-02-17
+date: 2024-12-01
 venue: 'GitHub Journal of Bugs'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11149727'
 ---
