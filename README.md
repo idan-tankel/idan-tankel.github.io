@@ -4,7 +4,7 @@ This is my personal academic portfolio website. The site is built using the Acad
 
 ## About
 
-I am a researcher and data scientist with expertise in machine learning, data analysis, and computational methods. My work focuses on applying advanced analytical techniques to solve complex problems across various domains.
+I am a researcher and data scientist with expertise in computer vision, MLLMs, and other deep learning based methods. My work focuses on applying advanced analytical techniques to solve complex problems across various domains. Informally, I'm just a mathematician who loves to think and solve problems :)). 
 
 ## Links
 
