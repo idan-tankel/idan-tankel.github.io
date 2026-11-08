@@ -30,7 +30,14 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "GE Research",
+      "position": "AI Researcher",
+      "location": "Tel Aviv",
+      "summary": "Research in computer vision and machine learning, with interests in vision-language models, explainable object and action classification, part-attribute recognition, and LLM/VLM applications in medical imaging."
+    }
+  ],
   "education": [
     {
       "institution": "Weizmann Institute of Science",
