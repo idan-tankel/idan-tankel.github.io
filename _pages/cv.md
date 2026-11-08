@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science & Applied Math, Weizmann Institute of Science, 2024
+* B.S. in Mathematics, The Open University of Israel, 2018, Academic in High School program (2015–2018), GPA: 88
 
 Work experience
 ======
