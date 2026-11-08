@@ -33,16 +33,7 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "Weizmann institute Of Science",
+      "institution": "Weizmann Institute of Science",
       "area": "M.S. in Computer Science & Applied Math",
       "studyType": "",
       "startDate": "",
@@ -51,9 +42,9 @@
       "courses": []
     },
     {
-      "institution": "The Open University Of Israel",
+      "institution": "The Open University of Israel",
       "area": "B.S. in Mathematics",
-      "studyType": "`Academic In High School` program",
+      "studyType": "Academic in High School program",
       "startDate": "2015",
       "endDate": "2018",
       "gpa": 88,
@@ -66,32 +57,25 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "INFORM-CT: INtegrating LLMs and VLMs FOR Incidental Findings Management in Abdominal CT",
+      "publisher": "MIDL 2026 spotlight",
+      "releaseDate": "2024-02-17",
+      "website": "https://arxiv.org/abs/2512.14732",
+      "summary": "An agentic AI approach to managing incidental findings in abdominal CT."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
+      "name": "A Conceptual Approach to Explainable Object and Action Classification",
       "publisher": "GitHub Journal of Bugs",
       "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "website": "https://ieeexplore.ieee.org/abstract/document/11149727",
+      "summary": ""
+    },
+    {
+      "name": "Real Classification by Description: Extending CLIP's Limits of Part Attributes Recognition",
+      "publisher": "ArXiv",
+      "releaseDate": null,
+      "website": "https://arxiv.org/abs/2412.13947",
+      "summary": ""
     }
   ],
   "presentations": [
