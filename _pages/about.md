@@ -9,22 +9,34 @@ redirect_from:
 
 About Me
 ======
-I am an AI researcher at GE Research, based in Tel Aviv, working on computer vision and machine learning. My research interests include vision-language models, explainable object and action classification, and part-attribute recognition, as well as applications of LLMs and VLMs to medical imaging.
+First of all, welcome!
 
-You can find my papers under [Publications](/publications/), and my profiles on [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Tankel,+I), [Google Scholar](https://scholar.google.com/citations?user=kH2mcKEAAAAJ&hl=iw&oi=ao), [Semantic Scholar](https://www.semanticscholar.org/author/Idan-Tankel/2335868209), [ResearchGate](https://www.researchgate.net/profile/Idan-Tankel), [LinkedIn](https://www.linkedin.com/in/tankwell), [GitHub](https://github.com/idan-tankel) and [Hugging Face](https://huggingface.co/tankwell).
 
+I am an AI researcher at GE Research, based in Tel Aviv, working on computer vision and deep learning. My research interests include MLLMs and multimodal learning, explainable object and action classification, and part-attribute recognition, as well as applications of LLMs and VLMs to medical imaging and other industries.
+
+You can find my published scientific work under [Publications](/publications/).
+
+For me, being a scientist is about thinking. I research, examine data, think, and draw reasoned conclusions as a way of life.
 
 
 About You
 =====
 
-💻 AI Research enfusiast
+If you made it up trhough here, you probably like one of these too.
 
-🎹 Piano player
+💻 AI Research
 
-🎓 Math Lover
+🎹 Piano
 
-🏃 Trail runner
+🎓 Math
+
+🔭 Physics
+
+🏃 Trail running
+
+🧗‍♂️ Rock climbing
+
+🥾 Hiking
 
 🌻 Or maybe other things
 
