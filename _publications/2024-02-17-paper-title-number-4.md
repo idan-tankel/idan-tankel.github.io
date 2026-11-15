@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2024-12-01
-venue: 'GitHub Journal of Bugs'
+venue: '2025 IEEE International Conference on Advanced Visual and Signal-Based Systems (AVSS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11149727'
 ---
 
